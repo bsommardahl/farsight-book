@@ -4,7 +4,7 @@
 
 #### Outline
 
-1. [Through a Glass](through-a-glass)
+1. [Through a Glass](through-a-glass.md)
 2. Human tunnel vision
 3. My Life
 4. Gods Eternal Vision
