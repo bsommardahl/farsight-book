@@ -5,7 +5,7 @@
 #### Outline
 
 1. [Through a Glass](through-a-glass.md)
-2. Human tunnel vision
+2. [Human tunnel vision](tunnel-vision.md)
 3. My Life
 4. Gods Eternal Vision
 5. Heaven (presence of God)
