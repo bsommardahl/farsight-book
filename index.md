@@ -1,21 +1,28 @@
+---
+layout: default
+title: Farsight
+nav_order: 0
+has_children: true
+has_toc: true
+---
 # Farsight
 ## Seeking God's eternal perspective.
 
 DISCLAIMER: Lots of ideas here. We've tried to organize the thoughts into a continuum that builds a case for seeking more intentionally the eternal perspective of God. It's a work in progress that will likely change at least 1000 times before the project is complete.
 
 #### Outline
-1. On Fire
-    1. once upon a time
+1. [On Fire](on-fire)
+    1. Once upon a time
         1. Life-changing experiences
+        1. Heaven on earth experiences
             1. Youth group devos
             1. Camp
             1. Conferences
-        1. Heaven on earth experiences
         1. Conversion experiences
-        1. Spiritual high
+        1. Spiritual highs
     1. But now…
         1. Calm Fire
-1. Short-Sighted: we've got vision problems (or Tunnel Vision)
+1. Nearsighted: we've got vision problems (or Tunnel Vision)
     1. Believers experiencing life with Temporal mindset… 
         1. really believers? What do we really believe in?
         1. View problems as negative, missing opportunities 
