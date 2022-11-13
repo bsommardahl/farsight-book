@@ -15,7 +15,7 @@ DISCLAIMER: Lots of ideas here. We've tried to organize the thoughts into a cont
         1. Spiritual high
     1. But now…
         1. Calm Fire
-1. Short-Sighted: we've got vision problems
+1. Short-Sighted: we've got vision problems (or Tunnel Vision)
     1. Believers experiencing life with Temporal mindset… 
         1. really believers? What do we really believe in?
         1. View problems as negative, missing opportunities 
@@ -28,8 +28,7 @@ DISCLAIMER: Lots of ideas here. We've tried to organize the thoughts into a cont
         1. We read about the fruit of the spirit and we think we see it as a list of things to do instead of evidence of what God is doing.
         1. We read about sin and we see it as a list of things not to do as opposed to evidence we still have parts of our heart that are untransformed. And if we are aware that we have parts of our heart that are untransformed, we think we need to work towards transforming those parts instead of trusting God to handle it while we focus on loving more.
         1. We read the old testament as a set of stories that don't have connection with today's reality. We miss the evidence of God preparing his creation for eternity the whole time.
-    1. Projecting temporal image on our eternal God
-        1. We think of God changing over time, as if God exists in time like we do.
+    1. The blind leading the blind
     1. Temporal expectations of a life meant for eternity
         1. So much emphasis on gaining salvation as if it's a box to check off
         1. We amass wealth and grab for everything as if there's nothing more to life.
