@@ -7,7 +7,7 @@ parent: Farsight
 has_toc: false
 ---
 
-1. I can see! What now?
+1. Availability: I can see! What now?
     1. Become available to the Holy Spirit
     1. Let the HS make you even more available
     1. Join God in what He is doing
