@@ -3,6 +3,7 @@ layout: section
 title: Lowering the Bar
 nav_order: 4
 parent: Nearsighted
+#grand_parent: 
 has_children: false
 has_toc: false
 ---
