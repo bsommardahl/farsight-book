@@ -2,7 +2,7 @@
 layout: default
 title: On Fire 
 nav_order: 1
-parent: Farsight
+#parent: Farsight
 has_children: true
 has_toc: false
 ---

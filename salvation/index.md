@@ -2,7 +2,7 @@
 layout: default
 title: Salvation 
 nav_order: 5
-parent: Farsight
+#parent: Farsight
 has_children: true
 has_toc: false
 ---

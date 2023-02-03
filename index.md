@@ -2,8 +2,8 @@
 layout: default
 title: Farsight
 nav_order: 0
-has_children: true
-has_toc: true
+#has_children: true
+#has_toc: true
 ---
 # Farsight
 ## Seeking God's eternal perspective.

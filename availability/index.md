@@ -3,7 +3,7 @@ layout: default
 title: Availability 
 nav_order: 7
 has_children: true
-parent: Farsight
+#parent: Farsight
 has_toc: false
 ---
 
