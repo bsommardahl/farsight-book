@@ -1,6 +1,6 @@
 ---
 layout: section
-title: Glory Days
+title: Spiritual Boredom
 nav_order: 2
 parent: On Fire
 #grand_parent: 

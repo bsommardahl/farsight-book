@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: chapter
 title: Salvation 
 nav_order: 5
 #parent: Farsight

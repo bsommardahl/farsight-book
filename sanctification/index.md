@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: chapter
 title: Sanctification 
 nav_order: 6
 #parent: Farsight

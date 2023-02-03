@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: chapter
 title: God's Lenses
 nav_order: 4
 #parent: Farsight

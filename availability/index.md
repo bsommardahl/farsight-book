@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: chapter
 title: Availability 
 nav_order: 7
 has_children: true

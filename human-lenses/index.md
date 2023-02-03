@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: chapter
 title: Human Lenses
 nav_order: 3
 #parent: Farsight
