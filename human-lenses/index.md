@@ -7,7 +7,7 @@ has_children: true
 has_toc: true
 ---
 
-## Human Lenses: Things that affect how we see/perceive things
+## The Human perspective: Things that affect how we see/perceive things
     
 1. Purpose, our search for meaning
 1. Temporal nature (this is all we know)

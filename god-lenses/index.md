@@ -7,7 +7,7 @@ has_children: true
 has_toc: true
 ---
 
-## God's Lenses (his nature): 
+## God's Perspective: His nature drives reality
 
 1. Father, relentless teacher
 1. God is love, desires to multiply love
