@@ -10,6 +10,7 @@ has_toc: false
 
 # Once upon a time
 
+
 1. Life-changing experiences
 1. Heaven on earth experiences
     1. Youth group devos
@@ -17,3 +18,7 @@ has_toc: false
     1. Conferences
 1. Conversion experiences
 1. Spiritual highs
+1. What's going on??
+    1. Throughout our lives, God is "attempting" to get through to us.
+    1. God wants to get through to us because his goal for us is to spend eternity with Him.
+
