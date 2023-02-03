@@ -7,4 +7,4 @@ has_children: true
 has_toc: true
 ---
 
-1. A Glimpse of Heaven: Salvation
+## Salvation is a deposit
