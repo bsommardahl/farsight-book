@@ -3,11 +3,10 @@ layout: chapter
 title: On Fire 
 nav_order: 1
 #has_children: true
-has_toc: true
+#has_toc: true
 ---
 
 ## On Fire for God
-
 
 ---
 # Once upon a time
