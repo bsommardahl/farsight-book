@@ -7,4 +7,4 @@ has_children: true
 has_toc: false
 ---
 
-# Vision Renewal: the HS transforms our perspective (aka sanctification)
+## Vision Renewal: the HS transforms our perspective (aka sanctification)

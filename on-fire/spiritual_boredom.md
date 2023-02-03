@@ -8,7 +8,5 @@ has_children: false
 has_toc: false
 ---
 
-# Spiritual Boredom
-
 1. But now…
-    1. Calm Fire
+  1. Calm Fire

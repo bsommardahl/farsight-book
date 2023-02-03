@@ -7,4 +7,4 @@ has_children: false
 has_toc: false
 ---
 
- 1. The blind leading the blind
+1. The blind leading the blind

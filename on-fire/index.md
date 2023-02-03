@@ -7,4 +7,4 @@ has_children: true
 has_toc: false
 ---
 
-# On Fire for God
+## On Fire for God

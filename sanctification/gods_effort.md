@@ -8,7 +8,7 @@ has_children: false
 has_toc: false
 ---
 
-# God’s effort, not our own
+## God’s effort, not our own
 
-        1. Not an opportunity to relax, we must stay available to God’s work
-        1. The HS transforms us
+1. Not an opportunity to relax, we must stay available to God’s work
+1. The HS transforms us
