@@ -4,7 +4,7 @@ title: On Fire
 nav_order: 1
 #parent: Farsight
 has_children: true
-has_toc: false
+has_toc: true
 ---
 
 ## On Fire for God

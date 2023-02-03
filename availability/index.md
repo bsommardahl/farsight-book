@@ -4,7 +4,7 @@ title: Availability
 nav_order: 7
 has_children: true
 #parent: Farsight
-has_toc: false
+has_toc: true
 ---
 
 1. Availability: I can see! What now?
