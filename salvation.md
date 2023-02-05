@@ -7,8 +7,8 @@ nav_order: 5
 ## Salvation is a deposit
 {: .no_toc }
 
-<h2>Table of contents</h2>
+<h2>Sections</h2>
 {: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}

@@ -7,10 +7,10 @@ nav_order: 6
 ## Vision Renewal: the HS transforms our perspective (aka sanctification)
 {: .no_toc }
 
-<h2>Table of contents</h2>
+<h2>Sections</h2>
 {: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}
 
 ### God’s effort, not our own

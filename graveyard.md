@@ -1,31 +1,67 @@
+---
+layout: chapter
+title: Graveyard
+nav_order: 7
+---
+
+```
+Note: This page contains random observations from more than 2 years of study and thought. These ideas are untested, unrefined and quite possibly heretical. Please read at your own risk (and please don't hold any of this against the authors).
+```
+
+## The Graveyard
+{: .no_toc }
+
+Where ideas go to die.
+
+<h2>Sections</h2>
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+## Book Meta
+
 “Farsight” 
 Audience: Professing Christians, those who desire to deepen their relationship with God, feel stuck in their growth, don't know what to do or where to look
 
+## Punishment
 Punishment, discipline… we spend a lot of time trying to avoid it, but isn't that God teaching us. Are we like teenagers constantly trying to get out of punishment and missing valuable lessons in the process?
 
 Eph 3:14-19 full comprehension of gods love… perspective is born out of love because God is love. Made complete, know love that surpasses understanding, not through a glass dimmly but clearly 
 
 "I don't need help from god. I have this life figured out." – the problem is that this person doesn't actually believe or know what God says… this life is not not the point..
 
+## God's Goals
 Ps 139:23-24 - lead me in everlasting ways. this where God wants us.
 
+When we pray for healing, but also ask to know gods plan, is it to be in awe or because we don't really trust and we want to inspect the plans. Ema does that to me with my plans… wants to know what is for dinner, not because he is curious but so that he has a chance to argue and change the plan. That's why I don't tell him… he just needs to trust.
+
+## Spiritial Metrics
 
 Matt 12:34 - Out of the overflow of the heart, the mouth speaks… is that a signal to control the tongue or a signal of a way to measure the heart. 
 
-When we pray for healing, but also ask to know gods plan, is it to be in awe or because we don't really trust and we want to inspect the plans. Ema does that to me with my plans… wants to know what is for dinner, not because he is curious but so that he has a chance to argue and change the plan. That's why I don't tell him… he just needs to trust.
+## Wisdom
 
 Fear of the lord is the beginning of wisdom proverbs
 
 Wisdom= seeing thing with God's perspective.
 Fear= understanding my place… child.before a father.
 
+## Sanctification
+
 John the Baptist: less of me and more of God. This is a great summary of what God wants for us in this life.
+
+## Our Purpose (Calling)
 
 We are called to be different…. But why? Different just to be different? We just stop there… Were called to avoid sin? Why? Just because God doesn't like it? Just because sin leads to hell? We often stop there… I think the "why" is SO important, and SO logical! Without the why, are we even truly convinced?? God has us here to fall in love with him, help others to do the same, and prepare for eternity. Anything outside of that is a complete and utter waste of time.
 
 Refiners fire, God has us here to refine us and purify us. Like the bride that Jesus is preparing and presenting to himself. Eph 5
 
+## Sin
+
 Sin= waste of time, "fruitless works of darkness" Ephesians 5:1-14
+
+### Our Response to Sin
 
 We're offended when we are told about sin. It's because we don't see our life for what it truly is. We are asleep. 
 
@@ -35,7 +71,9 @@ God of OT, God of NT… same God showing same mercy to a human race at very diff
 
 Jesus talks about cutting off an arm or taking out an eye. Extreme? From an earthly perspective yes, from an eternal perspective, no.
 
-Corey: never an excuse to sin. "But what if I'm starving to death. Can't I steal?" Nope, better to die in hunger and enter the eternal banquet.
+Corey: never an excuse to sin. "But what if I'm starving to death. Can't I steal?" Nope, better to die in hunger and enter the eternal banquet. -- JT: Stealing to eat is a statement that you don't trust God, taking matters into your own hands because you don't believe God's plan is good enough.
+
+## Christian Atheism
 
 Christian atheism is sneaky!
 Blind obedience for obedience sake
@@ -51,17 +89,16 @@ Maybe this is a good starting point but it's still selfish. It's got to convert 
 
 
 
-Eternity
+## Eternity
+
 In god's presence forever
 Todd said he wasn't excited about worshipping God for eternity because he didn't like singing.
 "I want a gold one that's silver lined! I've got a mansion just over the hilltop."
 Will we be disappointed if we find that eternity is not what we expected.
 
 
+## Podcast Notes
 
-
-
-Podcast Notes:
 First names only so no one gets glory (also creates mystery?)
 No job titles or plugging churches (pastors…)
 No prep other than the main idea which is making ourselves available to God's perspective. Questions take everyone off guard
@@ -74,12 +111,13 @@ Perspective Question
 Bible study, expository, Ephesians, just as far as we can get 
 Podcast notes
 
-Intro Chapter(s)
+## Intro Chapter(s)
 
 Story: shooter in church, talk them out of it or tell them to listen to the HS after they do it
 
+## Old Outlines
 
-Outline:
+### Outline
 Concept: God wants to give us his perspective
 What is heaven?
 What is wisdom?
@@ -104,6 +142,7 @@ http://www.jesuswalk.com/manifesto/
 
 
 
+## Stories
 
 Story to hook reader
 What happens when people don’t think like God
@@ -134,7 +173,7 @@ Acting righteous for human approval vs being righteous because that's what God i
 
 
 
-The Problem
+## The Problem
 God’s path: Sanctification
 God’s purpose for us on this earth: prepare us for eternity (sanctify us)
 Sanctification is the process of adopting God’s eternal perspective
@@ -164,24 +203,27 @@ Anxiety, fear
 Our problems are the “end of the world”
 We view others as problems
 Politics is important
-Stories
-Rob Hodges, Felon
-Stephen Curtis Chapman, loss of child
-John Mark Hicks, Loss of wife
-David Young, stage 4 cancer
+
+## Personal Stories
+
+Rob H, Felon
+Stephen Curtis C, loss of child
+John Mark H, Loss of wife
+David Y, stage 4 cancer
 Judah, middle school
 Jacob, atheist
 Me, healed from cancer
-Mike Lee, moral failure
+Mike L, moral failure
 Corey T, suicide attempts
 Shane Claiborne, life before conversion 
-Tony Mac, artist, loss of truit 
-Randy Harris, single
+Tony M, artist, loss of truit 
+Randy H, single
 Job, loss of everything
 Paul, converted Christian killer
-Jerome Williams, ministry
-James Dobson, loss of focus on the family 
-Jeff Mac, health struggles, loss of voice, struggling ministry
+Jerome W, ministry
+James D, loss of focus on the family 
+Jeff M, health struggles, loss of voice, struggling ministry
+
 The Solution
 Realize you’re in the way
 Address the gunk 
@@ -190,7 +232,8 @@ God renews your mind
 Application
 How do we do on 
 
-Setup
+## Setup
+
 Human character/nature
 Human characteristic
 Human perspective
@@ -212,7 +255,7 @@ What's important to God?
 
 
 
-What is God's Perspective?
+## What is God's Perspective?
 Eternal 
 Limitless yet self-limiting
 Creator (understands his creation)
@@ -240,7 +283,7 @@ Unbelievers are offensive to us, if we are unbelievers our sin isn't misbehavior
 Believers Pursue sin for fear of missing out, not experiencing everything this life has to offer would be a waste of a perfectly good life
 As believers, our misbehavior is worse than that of unbelievers
 
-
+## Sin Management
 Try to manage sin problems on our own because we're sure we can handle it 
 Ignorant of the reality of eternity
 Experience life as a long time
@@ -252,6 +295,7 @@ Sees reality as if through a blurry window ("through a Glass, dimly")
 We see our time on Earth as more chance to realize our own goals and ambitions
 
 
+## Sanctification
 
 Sanctification can be described as the process of adopting God's eternal perspective. The kingdom of God can be described as the adoption of Gods eternal perspective.
 We are temporal, and it's what we know, but we can empathize with God's perspective and consider how He sees things, and choose to agree with God and try to see things that was too
@@ -270,6 +314,7 @@ We can see unlovable people as precious children who may have lost their way and
 We can realize our natural short-sightedness and blurry vision when regarding situations around us, and commit to thinking about and choosing to see things how God sees them.
 
 
+## Kingdom of God
 What is the Kingdom of God?
 The kingdom is gods eternal perspective in our minds and hearts. 
 Heaven is simply being in the presence of God with his perspective fully in our minds.
@@ -278,22 +323,16 @@ Now we see things like through a blurry glass, but when we are in eternity in go
 
 
 
+## God's Perspective
 
-
-
+### Gender Issues
 What's gods perspective on gender reassignment?
 Suicide is increased for people who do this. They find out later, after all this work, the itch they were trying to scratch was the wrong one.
 God wants us to fall in love with him, regardless of whatever is going on in their mind or body. And then hang on and stay faithful until they meet eternity.
 
 
 
-
-
-
-
-
-
-System of thinking:
+## System of thinking
 God is love, therefore love (and its increase) is the point of everything he has ever done.
 God could have created us as beings without a choice, but real love comes from a choice to love. Choiceless love isn’t really love at all. God wants to multiply love, and creating beings who could potentially hate Him was worth the “risk”.
 God’s perspective is eternal, he sees things very differently than we do.
@@ -318,12 +357,13 @@ Sin is our childish, myopic way of wasting our own time during this short life, 
 
 
 
-Gods eternal perspective
+## Gods eternal perspective
 
 The creator of the universe has a perspective
 Through the HS, we can learn to adopt his perspective
 His way of thinking will change yours, sanctification
 
+## Lesson Series (Mission Team)
 How does God see…
 Fri- Intro - My tough day of travel where things didn't go so smoothly and I had to wear a mask all day, gas prices, war - be still and know
 Sat- Poverty/Riches
@@ -444,6 +484,7 @@ God gives us time, but expects us to grow up
 Is it time for you to grow up? Maybe you need help taking the first step?
 
 
+## Spiritual Metrics
 
 What is the evidence that we don't possess the perspective of God:
 We sue our brothers and sisters in worldly court
@@ -466,6 +507,9 @@ We sell property and make other christians think we are giving all the money to 
 We grab and claw and hoard for what we can because it feels like, if we don't get what's "due to us", we will miss out in this life.
 An elixir guaranteed to give us 20 more years of life on this earth sounds like it's worth giving everything you've got to obtain
 We want God to work more in our health and finances than in our hearts to change our perspective to match his.
+
+## God's Perspective
+
 God's perspective that we should adopt:
 Life on earth is so short, meant only to give us enough time to fall in love with God and convince others to do the same.
 What awaits us in heaven makes what we can amass here insignificant
@@ -474,7 +518,7 @@ Whatever can increase real, honest, pure love is what we should pursue with ever
 Long life, health, wealth, success... Are only worth the risk of pride if love is increased
 (edited)
 
-
+## Unequally Yoked
 1 cor 7
 V7 says we should come back to relations with the spouse to avoid temptation because of a lack of self control. Some might take this as permission to take a little heroine to stave off full-blown addiction. But marital sex is not sinful.
 10:41
@@ -482,153 +526,125 @@ V14 the unbelieving spouse will be made holy because of the believing spouse. Bu
 10:43
 V12 consents to live with... This is because people had converted to Christ and had changed. Maybe the unbelieving husband wouldn't want to live with them anymore. Or maybe the believer thinks they need to separate because they hear they should not be unequally yoked.
 
-Byron Sommardahl  10:52 AM
 But this doesn't give permission or blessing to marry a non believer and use "mission field" as an excuse.
 V21 if you're a slave, dont sweat it. If you have the perspective of Jesus, you'll be able to live and serve in that station until you are called home in a short time.
 Whatever your station in life, dedicate it to God and serve him where you are at.
 
-Byron Sommardahl  11:06 AM
 V7 if you're single, it's a gift. Use it while you have it.
 11:09
 V17 we trust God that he has us in the life we have for a reason, and we need to be okay that reason might not include our on comfort or freedom.
 Saturday, May 21st
 
-Byron Sommardahl  8:27 PM
+## Spiritual Formation
 The benefits of heaven overshadow and minimize even the most valuable benefits of this life. Biblical spiritual formation leads us to truly value the eternal more highly than the temporal.
 Spiritual formation can be measured in the time it takes to come to our senses, regain an eternal perspective, and remember that the eternal matters more than the temporal.
-Sunday, May 29th
 
-Byron Sommardahl  10:53 AM
+## Jonas
+
 Jonas had faith in God, but didn't want what God wanted. So, Jonas was on the spectrum of godliness, but still lacked a complete eternal perspective. For Jonas, God and heaven were real and within reach. But Jonas lacked the ability to see his earthly enemies as heavenly equals. He didn't want to share heaven with "them" and this demonstrated his spiritual immaturity (or at least a gap in his spiritual formation).
 
 
 
+## Abundant Life
 
 Mike preached about living an abundant life now during this earth, not just getting ready for eternity. I've heard this many times before. I'm listening for eternal perspective. 1 Corinthians 15
 20 replies
 
-Byron Sommardahl  2 months ago
+## Image of God
 The resurrection body is spiritual.
 
-Byron Sommardahl  2 months ago
 Though it's said we are made in god's image... Is that the physical us or another version?
 
-Byron Sommardahl  2 months ago
 Maybe in the resurrection, the part of us that is made in god's image is what we keep as the physical part stays in the ground.
 
-Byron Sommardahl  2 months ago
 We are corruptible now, but resurrection makes us incorruptible. Raised in glory so that we are only for and about the glory and presence of God.
 
-Byron Sommardahl  2 months ago
 Life now is a foretaste of eternity? Are we walking hints? Are we a preview for the upcoming movie?
 
-Byron Sommardahl  2 months ago
 The fall of Man (first Adam) was something God knew about and yet he created us. He did this because He is love. His expressed himself (love) in the gift of free will. Without this gift, we wouldn't have the capacity to truly love.
 He loved his creation even with the knowledge it would betray him. And he gave us the ability to manifest love (manifest God) by choosing him despite our sinful nature and the challenges of living in this finite body. The only way for love to abound was if we had the capacity to choose, the capacity to betray, the capacity to forgive. And God expressed himself (his love) for us by making an unthinkable sacrifice to restore our relationship and magnify love... Our communal, triune God used his finite creation to put himself in a situation where he would be broken, fractured, separated from himself for 3 days while the son, alone and rejected for the first time in all eternity, defeated death. (edited) 
 
-Byron Sommardahl  2 months ago
+## Physical Death
+
 The sting of death is sin. Death is not the sting!
 
-Byron Sommardahl  2 months ago
 How does God view earthly death?
 
-Byron Sommardahl  2 months ago
 How does God view cancer? Suicide? Starvation? Natural death? Wrongful death?
 
-Byron Sommardahl  2 months ago
 In this chapter, I don't see much talking about living "heaven" now. I read about hanging on and staying faithful while we wait for eternity.
 
-Byron Sommardahl  2 months ago
+## God's Perspective
+
 How does God view culture?
 
-Byron Sommardahl  2 months ago
 If we are in Christ right now, it is a direct result of God giving us the capacity to hear his call and learn to love him despite our frailty.
 
-Byron Sommardahl  2 months ago
-We are beggars telling other beggars where to find bread.
+We are beggars telling other beggars where to find bread. - Mike Lee(?)
 
-Byron Sommardahl  2 months ago
+## Prosperity
+
 Saying "we are trying to live our best life," feels like it's missing the point. Living well here is nice, but not essential.
 
-Byron Sommardahl  2 months ago
+## Angels
+
 The angels sang "blessed be the lamb who was slain" because they recognized the immense amount of love that was realized and expressed by our triune God who accomplished the unthinkable... Way more than what we saw on this earth, a man who died on a cross.
 
-Byron Sommardahl  2 months ago
+## Abundant Life
+
 John 10:10 talks about why Jesus came and mentions abundant life. We are so nearsighted and carnal that, of course, we think he's talking living well now, on this earth, during our 70 or 80 years. But I'm convinced Jesus is referring to eternal life... Why would Jesus care about how well we live right now? Compared to eternity, investing so much in living well during this life would seem like pissing away a gift. His whole mission was to point people to a deeper relationship with God and prepare people for resurrection and eternity. That's why Jesus came. (edited) 
 
-Byron Sommardahl  2 months ago
 Maybe getting an incredible, comfortable life here on this Earth is kind of like putting on a miserable face when we're fasting and getting lots of pads on the back. We have already received our reward. Oooooooooooo, that's an uncomfortable thought.
 
-Byron Sommardahl  2 months ago
 Actually that kind of brings some new meaning to Jesus story about the rich man and Lazarus. And it also brings some more meaning to the Camel vs eye of the needle analogy. And it kind of explains why monks/nuns take a vow of poverty. Is it possible riches on earth decrease heavenly rewards? - 
-
 
 James 1 talks about "the rich" compared to people who endure trials. That suggests the rich don't have trials, maybe because they solve the trials with money. Is this why it's so hard for the rich to go to heaven? The rich don't have as many chances to learn gods lessons and develop their hearts. The rich don't participate in sanctification??
 
-
-
-
-
-Byron Sommardahl  1 month ago
 I think we like to make "abundant life" about our earthly lives because we want to make Christianity marketable. We want it to compete well against other religions that promise happiness and peace in this life. We think God needs help to make Christianity more attractive. But, God doesn't need help and we're not doing people any favors. When they sign up for Christianity, they get in neck deep and start to realize it was a bait and switch. To live abundantly in this life (by earthly standards) you have to work just as hard, if not harder. We find that the house still costs what it costs. We find that we get to keep less money when we stop cheating on taxes. We find that we sweat just as much when we are out working under the sun. "But they told me I would have a better life. That God would help me."
 
-Byron Sommardahl  1 month ago
+## Narrow Road
+
 The Bible describes the path to eternity as a narrow road. We are constantly trying to artificially widen it, or worse, build a new road to heaven.
 
-What does God think about balance?
-4 replies
+## God's Perspective
 
-Byron Sommardahl  1 month ago
+### What does God think about balance?
+
 Obviously living on the negative extreme is bad. Living on the positive extreme feels unattainable, so we resort to finding balance. Is that what we mean? Hope not... That sounds like something God would spit out (lukewarm). (edited) 
 
-Byron Sommardahl  1 month ago
 Liberal vs conservative... We should be in the middle? Maybe, but only because that's where we can serve God best, or where God can use us best to advance his kingdom. But it's not about getting the best RoI.
 
-Byron Sommardahl  1 month ago
 Spiritual vs carnal... Should we be in the middle?
 
-Byron Sommardahl  1 month ago
 Financially wealthy vs poor... In the middle? Is it as simple as giving enough to offset our comforts? Is that the balance we should seek?
 
+### How blessed should Christians feel when they think about their families and earthly lives?
 
-How blessed should Christians feel when they think about their families and earthly lives?
-2 replies
-
-Byron Sommardahl  1 month ago
 Corey talked about it. "If this pastor thing fell apart, I should feel fine. Look at how blessed I am. My life is rich because of my family." I also feel rich, but I'm trying to look at things from an eternal perspective. We can enjoy things in this life, but we are each being pulled to a place where the presence of God will make all of these earthly riches and "blessings" feel so irrelevant. That's tough to say, but it's the reality. So then, how should we think of our family? My 2 year old daughter? My 7 year old? My 14 year old? My wife? My parents? My sister? I must get to the point where I can see them how God sees them... As precious people  that He wants in his presence during eternity. How is that different from how I see them today?
 
-Byron Sommardahl  1 month ago
 So I want challenge the idea that we should regard our own family higher than anyone else. All are equally precious to God. Jesus illustrated this when he answered the people who said "your mother and brothers are outside."
 
 
-Does God change?
-1 reply
+### Does God change?
 
-Byron Sommardahl  1 month ago
 Does the Bible demonstrate that God changes over time? Saying that God changes suggests that God had a character flaw that he discovered and improved.
 
 
-Does God change his mind?
-4 replies
+### Does God change his mind?
 
-Byron Sommardahl  1 month ago
 The Bible demonstrates apparent "changes of mind" but is that an actual change of gods mind? Did God encounter new information that was previously unavailable to him that required a change of mind? What's gods eternal perspective on his changes of mind in the Bible.
+
 No, God did not make a mistake with his initial decision nor was there information that was unavailable to our all-knowing God. I believe the answer is in the difference between his perspective and ours. Like a child hearing a warning by his parent of an impending punishment, the beneficiaries of gods "change of mind"  had a child's perspective. God's perspective was closer to a parent's, with a desire to correct their behavior.
 
-Byron Sommardahl  1 month ago
 On the other hand, God absolutely does change how he treats us and works with us. Just like parents who treat their kids differently through the different stages of their kids lives, God works with the human race at the point where it's at, doing and saying what the human race needs.
 
-Byron Sommardahl  1 month ago
 Ema thinks I'm treating Nathan better than I treated him, but that's because ema had a limited and immature perspective. He can't remember that we treated him in similar ways, he doesn't take into consideration that every child needs custom treatment, and he doesn't think about the differences in how he acts/acted which definitely required very different responses from his parents.
 
-Byron Sommardahl  1 month ago
 We do the same thing with God when we assume God has changed over time. He used to be a bloodthirsty, angry war-loving God. Now he's a peace-loving, hippie God who wouldn't hurt an ant. The truth is God gives us (the human race) what we need, responding in kind to our output.
 
 
-What's gods perspective on free will and his correction. (edited) 
-1 reply
+## What's gods perspective on free will and his correction. (edited) 
 
-Byron Sommardahl  1 month ago
 God gave us free will, or the ability to choose between loving him and or not. And he's all-knowing, so even though he gives us the "ability to choose", he knows already every decision we will make. To put this into today's context, it's as if we have watched a movie 10 times. The first time, we enjoyed the movie with new eyes, appreciating every conversation, attitude, decision and outcome without any fore-knowledge. The next few times, we might still want to plead with a character to make a better choice, knowing what's about to happen to them, but they do what you know they will do anyways. By the 10th time, you almost have the lines memorized, but you might still lament the outcomes and wish to go back and rewrite the script.
 Maybe it's like a computer simulation of the spread of a virus through a petri dish. The simulation can run in 1 second with a powerful computer, even though the actual spread might take 48 hours. The simulation allows the scientist to see the entire 48 hours in one second.
 I've heard gods temporal perspective described as viewing a tapestry. Every moment in time, viewed at once as if seeing a tapestry hung on a wall.
