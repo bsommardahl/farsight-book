@@ -5,6 +5,13 @@ nav_order: 7
 ---
 
 ## Availability: I can see! What now?
+{{: .no_toc }}
+
+<h2>Table of contents</h2>
+{{: .no_toc .text-delta }}
+
+1. TOC
+{{:toc}}
 
 ### Become available to the Holy Spirit
 
