@@ -5,13 +5,13 @@ nav_order: 2
 ---
 
 ### Nearsighted: we've got vision problems (or Tunnel Vision)
-{{: .no_toc }}
+{: .no_toc }
 
 <h2>Table of contents</h2>
-{{: .no_toc .text-delta }}
+{: .no_toc .text-delta }
 
 1. TOC
-{{:toc}}
+{:toc}
 
 ## Believers experiencing life with Temporal mindset… 
 

@@ -5,13 +5,13 @@ nav_order: 1
 ---
 
 ## On Fire for God - Spiritual Awakening
-{{: .no_toc }}
+{: .no_toc }
 
 <h2>Table of contents</h2>
-{{: .no_toc .text-delta }}
+{: .no_toc .text-delta }
 
 1. TOC
-{{:toc}}
+{:toc}
 
 ### Life-changing experiences
 

@@ -5,13 +5,13 @@ nav_order: 6
 ---
 
 ## Vision Renewal: the HS transforms our perspective (aka sanctification)
-{{: .no_toc }}
+{: .no_toc }
 
 <h2>Table of contents</h2>
-{{: .no_toc .text-delta }}
+{: .no_toc .text-delta }
 
 1. TOC
-{{:toc}}
+{:toc}
 
 ### God’s effort, not our own
 
