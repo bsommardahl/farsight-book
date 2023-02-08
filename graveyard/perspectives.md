@@ -14,13 +14,10 @@ nav_order: 1
 - TOC
 {:toc}
 
-## God's Perspective
 
-How does God view culture?
+## How does God view culture?
 
-## God's Perspective
-
-### What does God think about balance?
+## What does God think about balance?
 
 Obviously living on the negative extreme is bad. Living on the positive extreme feels unattainable, so we resort to finding balance. Is that what we mean? Hope not... That sounds like something God would spit out (lukewarm). (edited) 
 
@@ -30,19 +27,19 @@ Spiritual vs carnal... Should we be in the middle?
 
 Financially wealthy vs poor... In the middle? Is it as simple as giving enough to offset our comforts? Is that the balance we should seek?
 
-### How blessed should Christians feel when they think about their families and earthly lives?
+## How blessed should Christians feel when they think about their families and earthly lives?
 
 Corey talked about it. "If this pastor thing fell apart, I should feel fine. Look at how blessed I am. My life is rich because of my family." I also feel rich, but I'm trying to look at things from an eternal perspective. We can enjoy things in this life, but we are each being pulled to a place where the presence of God will make all of these earthly riches and "blessings" feel so irrelevant. That's tough to say, but it's the reality. So then, how should we think of our family? My 2 year old daughter? My 7 year old? My 14 year old? My wife? My parents? My sister? I must get to the point where I can see them how God sees them... As precious people  that He wants in his presence during eternity. How is that different from how I see them today?
 
 So I want challenge the idea that we should regard our own family higher than anyone else. All are equally precious to God. Jesus illustrated this when he answered the people who said "your mother and brothers are outside."
 
 
-### Does God change?
+## Does God change?
 
 Does the Bible demonstrate that God changes over time? Saying that God changes suggests that God had a character flaw that he discovered and improved.
 
 
-### Does God change his mind?
+## Does God change his mind?
 
 The Bible demonstrates apparent "changes of mind" but is that an actual change of gods mind? Did God encounter new information that was previously unavailable to him that required a change of mind? What's gods eternal perspective on his changes of mind in the Bible.
 
@@ -58,13 +55,13 @@ We do the same thing with God when we assume God has changed over time. He used 
 ## What's gods perspective on free will and his correction. (edited) 
 
 God gave us free will, or the ability to choose between loving him and or not. And he's all-knowing, so even though he gives us the "ability to choose", he knows already every decision we will make. To put this into today's context, it's as if we have watched a movie 10 times. The first time, we enjoyed the movie with new eyes, appreciating every conversation, attitude, decision and outcome without any fore-knowledge. The next few times, we might still want to plead with a character to make a better choice, knowing what's about to happen to them, but they do what you know they will do anyways. By the 10th time, you almost have the lines memorized, but you might still lament the outcomes and wish to go back and rewrite the script.
+
 Maybe it's like a computer simulation of the spread of a virus through a petri dish. The simulation can run in 1 second with a powerful computer, even though the actual spread might take 48 hours. The simulation allows the scientist to see the entire 48 hours in one second.
+
 I've heard gods temporal perspective described as viewing a tapestry. Every moment in time, viewed at once as if seeing a tapestry hung on a wall.
+
 So why does God bother to correct us? It the answer found in some of the early ideas of predetermination? God has chosen those he will save?
 
-
-
-## Yet to be catalogged
 
 ## What was gods perspective on Job?
 
