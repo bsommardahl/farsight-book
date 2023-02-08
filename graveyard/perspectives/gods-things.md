@@ -6,7 +6,6 @@ grand_parent: Graveyard
 nav_order: 2
 ---
 
-# God's Things
 {: .no_toc }
 
 <h2>Sections</h2>
@@ -16,7 +15,7 @@ nav_order: 2
 {:toc}
 
 
-### Demons
+## Demons
 
 They were more visibly active in Bible times. Some countries seem to have more visible activity even today. God is all-powerful, so why did God allow demons to exist. Do they have a purpose? They must, if God allowed them.
 
@@ -28,15 +27,15 @@ When we sin, we often blame demons or Satan, but in reality, we don't need demon
 
 God kicked demons out of heaven. Jesus kicked demons out of people during his ministry. Jesus followers kick demons out of people. Demons keep getting kicked out.
 
-### His Will
+## His Will
 
-### His Kingdom
+## His Kingdom
 
-### Spiritual Warfare
+## Spiritual Warfare
 
 If there is a constant invisible battle going on, and God is all-powerful, then there must be some purpose for the battle beyond a real war where anyone could win or lose.
 
-### Demon Possession
+## Demon Possession
 
 This one seems tough. If it's possible for demon's to possess someone, it's because God designed it to be possible. And that means there is a purpose. 
 
@@ -46,13 +45,13 @@ Why was Jesus okay with killing the business and income of the owner of the pigs
 
 In the case of Jesus and legion, the man who was freed from demons wanted to come with Jesus. He could have been a powerful disciple with a powerful testimony. The man lived in a region where he didn't have much hope of hearing more about god (evidenced by the pigs… not a Jewish area). Did he free the man just to leave him where he was and eventually perish? What was god's perspective here? Could it be that his new purpose was to say amen when the gospel later reached that region? Was Jesus planting a sleeper-cell to awaken after his resurrection?
 
-### Witchcraft.
+## Witchcraft.
 
-### Angels.
+## Angels.
 
-### Fallen Angels
+## Fallen Angels
 
-### God's Transformative Work In Our Hearts
+## God's Transformative Work In Our Hearts
 
 I am crucified with Christ, nevertheless I live, yet not I but Christ lives in me… that's something God does… why?
 

@@ -7,8 +7,8 @@ has_children: true
 has_toc: true
 ---
 
-# What's God's eternal perspective on...
-{: .no_toc }
+##  What's God's eternal perspective on...
+<!-- {: .no_toc } -->
 
 <!-- 
 <h2>Sections</h2>

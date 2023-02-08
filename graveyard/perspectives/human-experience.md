@@ -3,10 +3,9 @@ layout: chapter
 title: Our Human Experience
 parent: Perspectives
 grand_parent: Graveyard
-nav_order: 3
+nav_order: 4
 ---
 
-# Our Human Experience
 {: .no_toc }
 
 <h2>Sections</h2>
@@ -15,11 +14,11 @@ nav_order: 3
 - TOC
 {:toc}
 
-### Our Cultures
+## Our Cultures
 
 We have this thing called culture and we act as if it's a standard of living. In reality, worldly culture is a distraction from what God has for us. We say we need to be counter-cultural, but I'm it sure that's really it. Instead of thinking of the culture as an immovable, permanent thing, perhaps we need to think of it as an unwelcome blanket that we can lift away from us and our context.
 
-### Friendship
+## Friendship
 
 Friendship is something that can help us to act in the most godly ways without feeling the sacrifice. It makes the sacrifice seem small. Like the time we went to visit Ricardo in denver. We spent probably about $1,000 more and it took 2,000 miles of driving to get to him but, we were happy to do it because we knew we were going to be encouraging him. It also reminds me of the time that my roommate in college experience the death of his father. Someone at the college told me about his father's passing and I felt the need to drive out to his family's town and be there to encourage my roommate. It was a sacrifice on my part because I was a poor college student we got a lot of time or money. But, it encouraged him and I didn't really feel the sacrifice after all. I feel like God gives us these strong bonds of friendship as a tool so that we can come closer to doing his will on this Earth. In our frail state, we may not always think to serve people like God wants us to serve them without this touch of friendship. And, I think we might be tasting true spiritual maturity when we can act the same ways for people who are not our friends or for people who are even our enemies.
 
@@ -28,35 +27,35 @@ Friendship is something that can help us to act in the most godly ways without f
 
 
 
-### Property Ownership
+## Property Ownership
 
 Did the native Indians have something right about an attitude of "not owning anything". Jesus didn't claim to own much. He even made a point to say that he didn't have a home to call his own.
 
-### Rights (as in Legal or Human Rights)
+## Rights (as in Legal or Human Rights)
 
 The Bible teaches us to submit and lay down our desires. But our rights are unalienable, irrevocable.... They're rights for goodness sake. Doesn't God want us to have our rights respected? No, he doesn't. Rights are all about each individual, his comfort, his space, his property, his life. And from an eternal perspective, does any of that matter at all?? No way!
 
 
 
-### People Who Want to Change the World
+## People Who Want to Change the World
 
 I've said I want to do this. I too have delusions of grandeur, that I could actually do something that would change the world. And what if I did accomplish something like that? Will it matter when I'm gone? Only if God desires it to matter. Only if God wants to use my impact?... Only if it's gods impact.
 
-### My Financial Security
+## My Financial Security
 
 Right now, I'm on shaky ground financially. The economy is going into a recession and I don't have a job. My businesses are not working so well. When I pray, should I pray that God magically make something work? Does God want me to have financial security? Maybe... To the extent that He can use my financial security to advance His kingdom.
 
 God wants to BE my stability.
 
 
-### Marriage
+## Marriage
 
 He can use marriage to teach us how to love sacrificially.
 
 Submission is a mental state God wants for us.
 
 
-### Our Abilities/Gifts
+## Our Abilities/Gifts
 
 I can do all things through Christ.
 
@@ -71,7 +70,7 @@ We can build massive churches and raise millions of dollars. We can build compan
 But when we become self-righteous or big-hearted because of our accomplishments, God sees us as children who don't understand what they are doing and need correction.
 
 
-### Sadness and Ddepression?
+## Sadness and Ddepression?
 
 Jesus wept.
 
@@ -79,9 +78,9 @@ Did Jesus cry because he felt loss? Jesus, with his eternal perspective, knew La
 
 I feel love magnified when I am empathizing with someone who is deeply sad. In the funeral line, I might hug and cry with a cousin I haven't even seen in years. Did love increase? Maybe. Do I feel love more intensely when I'm empathizing. You bet!
 
-### Guilt
+## Guilt
 
-### Sexual Identity, Gender, Preference
+## Sexual Identity, Gender, Preference
 
 God sees us as children. Children sometimes believe something about themselves that's not true. This doesn't change what God wants from them.
 
@@ -94,22 +93,22 @@ And no matter what, followers of Jesus are called to hold on to faith, seek firs
 But somehow we believe it is a human right to act on our desires. If the desire doesn't go away, then it must mean it's meant to be there and to be given in to. But our rights are defined by God, not our feelings. And God doesn't always take away desires... He knows we need things to keep us honest, humble and dependent on him.
 
 
-### Vengeance
+## Vengeance
 
 We are to love enemies.
 
-### Judgement
+## Judgement
 
 Book of life, we will be judged. This is the filtering of those who will go to heaven.
 
 We also judge other followers to instruct. The Bible judges us during our lives to instruct. So sometimes judgement is for instruction, and other times it's final.
 
 
-### Humans Enslaving Other Humans
+## Humans Enslaving Other Humans
 
-### Homelessness
+## Homelessness
 
-### Human Suffering
+## Human Suffering
 
 The struggle with the "problem of suffering" comes from a temporal perspective. To us, as temporal beings, earthly, physical suffering is unjust and meaningless. But from an eternal perspective, suffering in this short life has eternal purpose and any feeling of pain or injustice is completely insignificant.
 
@@ -117,41 +116,41 @@ To God, suffering is a tool. The Bible even encourages us to seek it out!
 
 Paul had a thorn. God had purpose for that suffering, and Paul had enough of gods eternal perspective to accept it.
 
-### Pride
+## Pride
 
 Pride is ugly to God and is opposite of his character. And since the purpose of this life is to prepare us for the next, pride threatens to halt or derail our spiritual formation and development.
 
-### Our Reputation
+## Our Reputation
 
 It's not important to him, except to the extent that he can use it to help people fall in love with him.
 
-### Masculinity
+## Masculinity
 
 Why did God choose men as the leader of the family and church?
 
-### Abortion
+## Abortion
 
 The biggest tragedy isn't the loss of the baby's life, but the selfishness of the mother and father for making a decision that attempts to escape responsibility.
 
 
-### Value of Our Bodies and Parts
+## Value of Our Bodies and Parts
 
 Jesus says it's better to take out your eye than go to hell?
 
-### Our Earthly Lives
+## Our Earthly Lives
 
 The only reason we are still alive is because he has a purpose for us or that we still have a chance to know him more.
 
 
 
-### Weapons
+## Weapons
 
 Shane Claiborne, Tony campolo
 
-### Execution as Punishment
+## Execution as Punishment
 
 
-### Sacredness of Human Life
+## Sacredness of Human Life
 
 We have only known this human life that we are experiencing now. We have only known temporary. We perceive our existence through the a temporal lense. To see things how God sees things, we have to make an intentional effort to think in unnatural ways, to look beyond the temporary.
 
@@ -165,7 +164,7 @@ For God, the loss of life on this Earth is only a transition. Even when kids die
 
 Maybe it was grace to the Israelites. If they had let the Canaanites live, they were going to corrupt the Israelites.
 
-### Clothing
+## Clothing
 
 God's perspective on our need to cover ourselves with clothing.
 

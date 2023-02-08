@@ -1,13 +1,10 @@
 ---
 layout: chapter
-title: Our Reaction to God's Will
+title: God's Will
 parent: Perspectives
 grand_parent: Graveyard
-nav_order: 1
+nav_order: 3
 ---
-
-# Our Reaction to God's Will
-{: .no_toc }
 
 <h2>Sections</h2>
 {: .no_toc .text-delta }
@@ -16,7 +13,7 @@ nav_order: 1
 {:toc}
 
 
-### Human Beings as Guests in God's World
+## Human Beings as Guests in God's World
 
 We have our house on Airbnb and offer it for rent when we go on long trips to Honduras. It's an odd feeling, having people renting and making our home their own for a time. Thank goodness it has gone well so far, but it's still odd. And I have learned an interesting lesson from this experience and I believe it has shown me a bit of God's perspective of us inhabiting this earth that he is renting us for a time.
 
@@ -41,13 +38,13 @@ We say that God is sovereign almost like we are putting God on the throne. But t
 
 
 
-### OT Sacrifice
+## OT Sacrifice
 
 What's god's perspective on "dealing with Sin" as in the old testament (animal sacrifice, roll sins forward)?
 
 What was God seeing in humanity through sacrifices? What did he hope we would get from it, since God clearly didn't get anything from it?
 
-### Sin Management
+## Sin Management
 
 We feel responsible to clean ourselves up if we're trying to be faithful to Jesus. That "obligation" we feel is natural, but I think it gets in god's way. We don't act as if we realize that God is taking charge of fixing us. We act as though, if we don't focus on removing that sin, no one else will. So, there's a puzzle here (for me).
 
@@ -60,7 +57,7 @@ Could this be one of the major problems for the American church? We are so focus
 If I'm right? How can Christians practically put this into practice.. it probably doesn't have to do with doing more... It has to do with reframing and doing less, but how?
 
 
-### Patience and Wisdom
+## Patience and Wisdom
 
 I've always thought of patience as something that could help me in this life, but I think there ismore passed into God's perspective.
 
@@ -71,22 +68,22 @@ In the same way, wisdom is not so that I can get more of what I want but so that
 Considering Solomon was someone who had a ton of wisdom, how does his treatment of wisdom interact with God's eternal perspective. He said a lot of things were meaningless under the sun. It seems like as he was adopting God eternal perspective, he was struggling with the realization that a lot of his previous urgency was not really that important after all.
 
 
-### Walking in the Light
+## Walking in the Light
 
 What does it mean that Jesus was walking in the light? Does that mean he was enlightened or that he had clarity of vision? It seems like it could mean that he had a grasp on the father's perspective that it gave an incredible clarity and light to his motives, decisions footsteps and everything he did have thought.
 
 Being a part of the trinity, it makes complete sense that he had this perspective. To me this is what it means to be walking in the light. And so, if we want to walk in the light as he is in the light, then we should also try to discover and adopt is the same perspective so that we can have clarity like he had clarity.
 
 
-### Sacrificial Generosity
+## Sacrificial Generosity
 
 What was it what about her that called jesus's attention so much? Was it because she was demonstrating her dependence on God, did she truly trust that God was going to provide her next meal or that it didn't matter whether God get exactly that or not but that God would still be glorified in the end?
 
-### Humans Acting Like They Own the Place
+## Humans Acting Like They Own the Place
 
 Christians make comments about God and the gospel as if we are the owners of something with rights. But in reality I we are guests and we have the opportunity to interact with something that gives us access to the presence of God.
 
-### Wanting Good for Our Enemies
+## Wanting Good for Our Enemies
 
 If someone killed my child and then God asked me to take the gospel to them, what are my options?
 
@@ -106,12 +103,12 @@ I should speak with the author of the shack, since he was definitely trying to i
 
 
 
-### Miracles
+## Miracles
 
 Jesus did miracles, but it wasn't his purpose. He came to show the human race what God wants with them, which is not learned through fanfare and showy stuff. Jesus did miracles to get attention or to care for people, but he preferred that they learned about god more than oohs and ahh's.
 
 
-### OT Law
+## OT Law
 
 The ot law was given to provide guardrails to the human race, incapable of determining their own limits. Like children, the human race didn't have the capacity to have fuzzy limits, so God gave them clear limits.
 
@@ -122,7 +119,7 @@ I make rules or give chores sometimes because I want to teach obedience. Does Go
 
 
 
-### Providing For Our Needs
+## Providing For Our Needs
 
 We often talk about how God will provide in various situations. We pray for God to give us a job, fill out bank accounts, give us what we need. Jesus modeled this in his prayer, asking God to provide today's bread. 
 
@@ -133,14 +130,14 @@ God has the power to provide, but does the Bible really teach that we should tru
 When I read about "God providing for our needs," I feel a lot more confident leaving room for God to provide for those needs in the next life, if that's what God's plan is. I don't hold it against God for times when I had to pick myself up off my knees and work to provide for my own needs.
 
 
-### Our Management of Sin
+## Our Management of Sin
 
 Is our sin management just our maintaining some sins on the side?
 
 Or is it more nefarious than that? I think sin management is much more widespread because we often act as if we are the only ones who can or should work on reducing or removing sin. We don't act as if we truly believe God has a part in changing our hearts, so we don't expect any activity from God.
 
 
-### Blessings
+## Blessings
 
 1 Peter 4:12-19 if you're ridiculed, you're blessed. How so? Is a blessing something I can enjoy? I don't enjoy ridicule. So is a blessing something I get, like a car or some money? Or is a blessing more about God's approval, as in a father blessing a guy to marry his daughter?
 
@@ -148,15 +145,15 @@ I'm not comfortable claiming blessings when I know I don't deserve God's approva
 
 
 
-### My Being Content in Singleness.
+## My Being Content in Singleness.
 
 If I were God, I'd say "well, that's nice!" But really I'm sure God is proud because he knows we are available to his service.
 
 The spiritusl high from youth camp… is there a connection between that feeling and adopting God's eternal perspective?
 
-### Human Fear and Hysteria
+## Human Fear and Hysteria
 
-### Rulers He Has Put On the Throne
+## Rulers He Has Put On the Throne
 
 They're not always "good" from our perspective, but God uses them to advance His kingdom regardless.
 
@@ -164,40 +161,40 @@ A ruler might do things that seems to hurt Christian ideals (allowing gay marria
 
 A ruler can do things that kill the economy or give more money to the "wrong people" and we can still see that, through the lense of eternity, God uses that to teach people humility and to advance His kingdom.
 
-### The Dead Burying the Dead
+## The Dead Burying the Dead
 
 Whats gods perspective on the situation when a person wanted to "bury his father" before following Jesus?
 
 What does he mean "bury?" Let the dead bury the dead
 
-### Following Jesus Because of Fanfare, Populatiry or Miracles
+## Following Jesus Because of Fanfare, Populatiry or Miracles
 
 Jesus questioned people's motives when they followed him
 
 The Gospel of John focuses on this a LOT!
 
 
-### Dependence on God
+## Dependence on God
 
 
-### Consequences
+## Consequences
 
 Consequences are a form of grace. They prepare us for eternity.
 
-### Us Studying the Bible
+## Us Studying the Bible
 
 What's gods perspective on our resistance to reading the Bible? 1 Peter 5
 
 
 
-### Our Role in the Advancement of His Kingdom
+## Our Role in the Advancement of His Kingdom
 
 - God doesn't need us - the rocks could do it
 - God knows we need to serve in order to form us spiritually
 - Maybe God wants the human race to take responsibility (to a point) for the human race?
 
 
-### Spiritual Triage
+## Spiritual Triage
 
 Prioritizing Those Who Will Listen
 
@@ -210,22 +207,22 @@ Is this giving up on those people?
 Or is this more about the disciple who needs to let go of the responsibility and let God handle it?
 
 
-### Men as Leaders, Women as Submissive
+## Men as Leaders, Women as Submissive
 
 
-### Spiritual Obesity
+## Spiritual Obesity
 
 Some Christians do nothing but learn, listen, worship, and stay fat-and-happy in the church.
 
 
 
-### How We See Jesus
+## How We See Jesus
 
-### Our Desire to Control our Lives
+## Our Desire to Control our Lives
 
-### People Who Say They're Okay with Going to Hell
+## People Who Say They're Okay with Going to Hell
 
-### Out Minimal Effort to Stay Out of Hell
+## Out Minimal Effort to Stay Out of Hell
 
 
 
