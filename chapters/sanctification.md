@@ -2,6 +2,7 @@
 layout: chapter
 title: Sanctification 
 nav_order: 6
+parent: Chapters
 ---
 
 ## Vision Renewal: the HS transforms our perspective (aka sanctification)

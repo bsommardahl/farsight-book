@@ -2,6 +2,7 @@
 layout: chapter
 title: Human Lenses
 nav_order: 3
+parent: Chapters
 ---
 
 ## The Human perspective: Things that affect how we see/perceive things

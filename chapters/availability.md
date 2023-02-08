@@ -2,6 +2,7 @@
 layout: chapter
 title: Availability 
 nav_order: 7
+parent: Chapters
 ---
 
 ## Availability: I can see! What now?

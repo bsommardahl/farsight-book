@@ -2,6 +2,7 @@
 layout: chapter
 title: God's Lenses
 nav_order: 4
+parent: Chapters
 ---
 
 ## God's Perspective: His nature drives reality

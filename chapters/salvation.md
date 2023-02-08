@@ -2,6 +2,7 @@
 layout: chapter
 title: Salvation 
 nav_order: 5
+parent: Chapters
 ---
 
 ## Salvation is a deposit

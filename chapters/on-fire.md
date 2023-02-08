@@ -2,6 +2,7 @@
 layout: chapter
 title: On Fire 
 nav_order: 1
+parent: Chapters
 ---
 
 ## On Fire for God - Spiritual Awakening

@@ -2,6 +2,7 @@
 layout: chapter
 title: Nearsighted 
 nav_order: 2
+parent: Chapters
 ---
 
 ### Nearsighted: we've got vision problems (or Tunnel Vision)
