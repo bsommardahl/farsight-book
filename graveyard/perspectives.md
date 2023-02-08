@@ -64,43 +64,34 @@ So why does God bother to correct us? It the answer found in some of the early i
 
 
 
+## Yet to be catalogged
 
 What was gods perspective on Job?
 4 replies
 
-Byron Sommardahl  1 month ago
 He had an actual conversation with Satan!?
 
-Byron Sommardahl  1 month ago
 He offered Job up to Satan like a social experiment?!
 
-Byron Sommardahl  1 month ago
 If I have a carnal perspective, this story feels very unfair. If this life is all there is, it feels unjust that God would allow suffering, and incurably I just that he would invite it!!!!
 
-Byron Sommardahl  1 month ago
 Basically, thanks to God, Job lost all he had worked for, lost his family and friends, lost his comfort and his ability to provide for himself. -- thanks to God's little worm, Jonah lost his shade tree and got sunburn.
 
 
 If someone killed my child and then God asked me to take the gospel to them, what are my options?
 6 replies
 
-Byron Sommardahl  1 month ago
 Jonah hated the Samaritans so much he repeatedly rebelled against God and denied his orders.
 
-Byron Sommardahl  1 month ago
 In Jonah's complaint near the end of the story, Jonah said he didn't want to preach to them because he knew they would change and God would "change his mind" and not destroy their city.
 
-Byron Sommardahl  1 month ago
 So, I would have the same options as Jonah, and perhaps the same mindset. If this person killed my child, could I honestly desire to see them in heaven? What's gods'perspective on that?
 
-Byron Sommardahl  1 month ago
 Many times we are so wrapped up in one earthly, carnal experience and we miss the mission that God has for us. This carnal experience is not the only experience we will have, even though we often act and think that way. God's mission for us is to choose to love him and help others do the same.
 This is easier to say from this moment in my life when I don't have to confront the murder of my child or some "horrible tragedy" (carnally speaking). But imagine having access to God's eternal perspective while in the middle of such a tragedy. Knowing that my child is just as precious to God as the murderer, realizing how short this carnal life is, knowing how real heaven is, and being aware of how little any of this tragedy will matter in eternity, I should be ready to roll up my sleeves and show gods love to that murderer in honest hopes to help him to also choose to love God and join my child and I in eternity!
 
-Byron Sommardahl  1 month ago
 I should ask John mark hicks about this. He lost someone in his family.
 
-Byron Sommardahl  1 month ago
 I should speak with the author of the shack, since he was definitely trying to illustrate gods perspective AND gods way of loving us through problems like the loss of a child.
 
 
@@ -110,7 +101,6 @@ June 18
 What's god's perspective on "dealing with Sin" as in the old testament (animal sacrifice, roll sins forward)?
 1 reply
 
-Byron Sommardahl  1 month ago
 What was God seeing in humanity through sacrifices? What did he hope we would get from it, since God clearly didn't get anything from it?
 
 
@@ -119,26 +109,20 @@ What is gods perspective on the role of the HS in our lives once we accept him a
 What was gods perspective on the Hebrew people a king, when they complained?
 1 reply
 
-Byron Sommardahl  1 month ago
 Was he giving in and giving up? Or was he proving a painful object lesson?
 
 
 What's God's perspective on our efforts to manage our sin?
 5 replies
 
-Byron Sommardahl  1 month ago
 We feel responsible to clean ourselves up if we're trying to be faithful to Jesus. That "obligation" we feel is natural, but I think it gets in god's way. We don't act as if we realize that God is taking charge of fixing us. We act as though, if we don't focus on removing that sin, no one else will. So, there's a puzzle here (for me).
 
-Byron Sommardahl  1 month ago
 I encountered this In prison ministry a lot. The guys would talk about how they need to get clean and somehow maintain their sin at bay, but how it almost never works and relapse feels like a sure thing... So why try? There's something there!! Maybe we shouldn't "try". The extreme would be to stop trying, let go of all inhibitions and just wait for God to magically zap sin out of us. Can God do that? Yes. Does God do that? Not in my experience and not really what the Bible describes as his normal behavior.
 
-Byron Sommardahl  1 month ago
 The churchy extreme is to get organized and systematically eliminate sin. Like it's project plan or backlog, prioritize by value or impact and start knocking it out. Go to counselors or shrinks to psych it out of us (or hypnotize). One by one, sin by sin, becoming more and more perfect. If you think That's actually working for you, I'd say you are in danger of replacing Jesus
 
-Byron Sommardahl  1 month ago
 Could this be one of the major problems for the American church? We are so focused on self help and self development.
 
-Byron Sommardahl  1 month ago
 If I'm right? How can Christians practically put this into practice.. it probably doesn't have to do with doing more... It has to do with reframing and doing less, but how?
 
 
