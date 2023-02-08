@@ -14,6 +14,70 @@ nav_order: 5
 - TOC
 {:toc}
 
+# Questions
+
+## Does God change?
+
+Does the Bible demonstrate that God changes over time? Saying that God changes suggests that God had a character flaw that he discovered and improved.
+
+## Does God change his mind?
+
+The Bible demonstrates apparent "changes of mind" but is that an actual change of gods mind? Did God encounter new information that was previously unavailable to him that required a change of mind? What's gods eternal perspective on his changes of mind in the Bible.
+
+No, God did not make a mistake with his initial decision nor was there information that was unavailable to our all-knowing God. I believe the answer is in the difference between his perspective and ours. Like a child hearing a warning by his parent of an impending punishment, the beneficiaries of gods "change of mind"  had a child's perspective. God's perspective was closer to a parent's, with a desire to correct their behavior.
+
+On the other hand, God absolutely does change how he treats us and works with us. Just like parents who treat their kids differently through the different stages of their kids lives, God works with the human race at the point where it's at, doing and saying what the human race needs.
+
+Ema thinks I'm treating Nathan better than I treated him, but that's because ema had a limited and immature perspective. He can't remember that we treated him in similar ways, he doesn't take into consideration that every child needs custom treatment, and he doesn't think about the differences in how he acts/acted which definitely required very different responses from his parents.
+
+We do the same thing with God when we assume God has changed over time. He used to be a bloodthirsty, angry war-loving God. Now he's a peace-loving, hippie God who wouldn't hurt an ant. The truth is God gives us (the human race) what we need, responding in kind to our output.
+
+
+# Ideas
+
+## We have incomplete perspectives
+
+I was watching my daughter draw a happy face, looking at her drawing as parents often do… not knowing what she was drawing but smiling and encouraging. Then I turned the drawing I'm my head and I could see the face, plain as day! I couldn't see what was being drawn because my perspective was wrong. But I changed my perspective and I was able to see more clearly.
+
+## "Putting God First"
+Talking to JC, we often talk about how we put God first, but we don't know what that means practically. God, family, business… but while I'm working on business, I don't think about God.
+
+
+## Wwjd bracelets 
+got lots of people thinking. (not sure where I was going here)
+
+
+
+## Characteristics of God
+Is Love - omnibenevolent
+
+
+Creator/parent
+
+
+All-powerful
+
+
+Omnipresent
+
+
+Eternal 
+
+
+
+
+## "Myopic Christianity"
+
+
+## 1 Peter 3:13 says "harm you"? Was Jesus harmed?
+
+Forms who's perspective?
+
+
+
+## If you think sin is worth sacrificing eternity or a relationship with God, then you don't truly understand eternity.
+
+If you think eternity isn't worth sacrificing this life, then you don't understand eternity.
 
 ## Punishment
 Punishment, discipline… we spend a lot of time trying to avoid it, but isn't that God teaching us. Are we like teenagers constantly trying to get out of punishment and missing valuable lessons in the process?
