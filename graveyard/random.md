@@ -35,6 +35,26 @@ We do the same thing with God when we assume God has changed over time. He used 
 
 # Ideas
 
+
+### The Destruction of Jericho
+
+Start chapter with story of people within the walls, living lives, slightly nervous about the shouting people outside the walls. meyhem, carnage, children dying.
+Make the reader side with the people of Jericho without knowing who they are or who the antagonists are.
+
+Reveal. That was gods people. Those are the people you have cheered on for years and as a kid in VBS. You used to be okay with this… what happened? Why were you okay with it before, feeling indignant while reading my story, and now you're just confused.
+
+Maybe for the first time thinking about this story with fresh eyes, without the blurry layer of complacency you've grown up with. 
+
+Now that you can see this in a different light, it's important to remember that this was commanded by our loving, all-powerful God. He told the Israelites to do this. 
+
+If any of us were part of an invasion like that, we would be called barbaric, terrorist, unloving…
+
+But that was the same god we serve. how can we reconcile that?
+
+The answer might lie in gods perspective, and how he sees things compared to how we see/experience things.
+
+
+
 ## We have incomplete perspectives
 
 I was watching my daughter draw a happy face, looking at her drawing as parents often do… not knowing what she was drawing but smiling and encouraging. Then I turned the drawing I'm my head and I could see the face, plain as day! I couldn't see what was being drawn because my perspective was wrong. But I changed my perspective and I was able to see more clearly.
