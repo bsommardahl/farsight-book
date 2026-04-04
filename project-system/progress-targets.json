@@ -1,0 +1,14 @@
+{
+  "targetTotalWords": 28000,
+  "defaultWordsPerPage": 275,
+  "pageDensities": [250, 275, 300],
+  "entries": [
+    { "label": "Near-Sighted", "path": "chapters/near-sighted.md", "bucket": "chapter", "targetWords": 3500 },
+    { "label": "On Fire", "path": "chapters/on-fire.md", "bucket": "chapter", "targetWords": 4000 },
+    { "label": "Availability", "path": "chapters/availability.md", "bucket": "chapter", "targetWords": 4000 },
+    { "label": "God Lenses", "path": "chapters/god-lenses.md", "bucket": "chapter", "targetWords": 4500 },
+    { "label": "Human Lenses", "path": "chapters/human-lenses.md", "bucket": "chapter", "targetWords": 4000 },
+    { "label": "Salvation", "path": "chapters/salvation.md", "bucket": "chapter", "targetWords": 4000 },
+    { "label": "Sanctification", "path": "chapters/sanctification.md", "bucket": "chapter", "targetWords": 4000 }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "exampleMarkers": [
+    "for example",
+    "for instance",
+    "consider",
+    "imagine",
+    "picture",
+    "suppose",
+    "let us say"
+  ],
+  "abstractTerms": [
+    "formation",
+    "transformation",
+    "sanctification",
+    "salvation",
+    "holiness",
+    "maturity",
+    "faith",
+    "grace",
+    "truth",
+    "love",
+    "vision",
+    "kingdom",
+    "discipleship",
+    "spiritual",
+    "growth"
+  ],
+  "weights": {
+    "readability": 0.25,
+    "intelligibility": 0.25,
+    "impact": 0.2,
+    "quality": 0.2,
+    "practicality": 0.1
+  },
+  "entries": [
+    { "label": "Near-Sighted", "path": "chapters/near-sighted.md" },
+    { "label": "On Fire", "path": "chapters/on-fire.md" },
+    { "label": "Availability", "path": "chapters/availability.md" },
+    { "label": "God Lenses", "path": "chapters/god-lenses.md" },
+    { "label": "Human Lenses", "path": "chapters/human-lenses.md" },
+    { "label": "Salvation", "path": "chapters/salvation.md" },
+    { "label": "Sanctification", "path": "chapters/sanctification.md" }
+  ]
+}
