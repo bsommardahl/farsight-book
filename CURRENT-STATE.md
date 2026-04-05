@@ -1,38 +1,46 @@
 # CURRENT-STATE.md
 
 ## Current Stage
-Mid-development manuscript with a coherent book spine and multiple drafted chapters, but still materially incomplete.
+Mid-development manuscript with a coherent eight-chapter spine, multiple real chapter drafts, and a newly clarified final movement from **Availability** into **Farsight**.
 
 ## What Is Materially True Right Now
-- The project has a coherent arc from awakening to response.
-- Seven core chapter files exist.
+- The project has a coherent arc from awakening to response to enlarged vision.
+- Eight core chapter files now exist.
+- `Availability` and `Farsight` have been materially reworked so they function as a pair rather than competing endings.
 - Several chapters are more developed than others.
-- Supporting architecture and synopsis documents exist.
+- Supporting architecture and synopsis documents exist, though some still need synchronization.
 - Progress and quality reporting are set up under `project-system/`.
 - Root README and repo reporting conventions have been standardized.
 
 ## Current Progress Snapshot
-- Approximate manuscript progress: 61.2%
-- Current manuscript words: 17,146
-- Words remaining to target: 10,854
+- Approximate manuscript progress: materially ahead of the prior snapshot, but not yet recalculated
+- Current manuscript words: increased beyond the prior recorded count due to substantial new drafting in `chapters/farsight.md`
 - The book has enough structure to move forward coherently.
 
 ## Active Editorial Reality
-- The core conceptual structure appears strong.
-- The manuscript likely still needs expansion, integration, and refinement across chapters.
-- The repo contains both content and architecture material, which is useful but can create drift if not managed deliberately.
+- The core conceptual structure appears stronger than before.
+- The biggest recent structural change is that the book no longer ends with **Availability** alone.
+- The final movement is now:
+  - **Availability** = surrendered participation
+  - **Farsight** = learning to live from God's horizon
+- The manuscript likely now needs more revision, compression, and integration than raw expansion in the final two chapters.
+- Some architecture files may still describe the older seven-stage shape and should be treated as needing review.
 
 ## Recent Durable Changes
-- Shared reporting system added under `project-system/`.
-- Root README standardized around book orientation and linked table of contents.
-- Continuity files added for transparent project-memory handling.
+- New chapter created: `chapters/farsight.md`
+- `table-of-contents.md` updated to an eight-stage / eight-chapter structure
+- `chapters/availability.md` reframed to hand off into `chapters/farsight.md`
+- `chapters/farsight.md` advanced from outline material to a near-complete chapter draft
+- Biblical anchors woven into `chapters/farsight.md` during revision
 
 ## Current Focus
-- Continue strengthening chapter drafts while preserving the clarified arc.
-- Use architecture docs to support, not replace, manuscript development.
-- Keep movement clear: awakening → diagnosis → explanation → corrective vision → rescue → renewal → response.
+- Keep the movement clear: awakening → diagnosis → explanation → corrective vision → rescue → renewal → response → horizon
+- Revise for compression, continuity, and force rather than drifting back into abstract architecture work
+- Bring supporting architecture docs into alignment with the actual manuscript
+- Identify where biblical anchors and concrete human examples should be strengthened in the remaining weaker chapters
 
 ## Open Questions
-- Which chapters are still mostly outline-level and need the next serious drafting pass?
-- Are any chapter boundaries still fuzzy or overlapping?
-- Which support documents should now be folded back into manuscript development?
+- Which earlier chapters are still mostly outline-level and now feel thin next to `Sanctification`, `Availability`, and `Farsight`?
+- Does `Farsight` remain the true final chapter after future revision, or does the manuscript eventually want a shorter concluding coda?
+- Which architecture files still carry outdated seven-chapter assumptions?
+- Where should the best human story material be inserted so the book gains texture without losing force?
