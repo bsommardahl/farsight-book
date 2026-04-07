@@ -1,11 +1,11 @@
 # CURRENT-STATE.md
 
 ## Current Stage
-Mid-development manuscript with a coherent eight-chapter spine, multiple real chapter drafts, and a newly clarified final movement from **Availability** into **Farsight**.
+Mid-development manuscript with a coherent nine-chapter spine, multiple real chapter drafts, and a newly clarified final movement from **Availability** into **Farsight** and then **Reactions**.
 
 ## What Is Materially True Right Now
-- The project has a coherent arc from awakening to response to enlarged vision.
-- Eight core chapter files now exist.
+- The project has a coherent arc from awakening to response to enlarged vision and changed reactions.
+- Nine core chapter files now exist.
 - `Availability` and `Farsight` have been materially reworked so they function as a pair rather than competing endings.
 - Several chapters are more developed than others.
 - Supporting architecture and synopsis documents exist, though some still need synchronization.
@@ -28,14 +28,15 @@ Mid-development manuscript with a coherent eight-chapter spine, multiple real ch
 
 ## Recent Durable Changes
 - New chapter created: `chapters/farsight.md`
-- `table-of-contents.md` updated to an eight-stage / eight-chapter structure
 - `chapters/availability.md` reframed to hand off into `chapters/farsight.md`
 - `chapters/farsight.md` advanced from outline material to a near-complete chapter draft
 - Biblical anchors woven into `chapters/farsight.md` during revision
-- Supporting chapter-notes file added: `chapters/farsight-outline.md`
+- New separate chapter created from follow-on outline: `chapters/reactions.md`
+- `table-of-contents.md` updated to reflect the new `Reactions` chapter
+- Temporary note file `chapters/farsight-outline.md` marked deprecated after being superseded by `chapters/reactions.md`
 
 ## Current Focus
-- Keep the movement clear: awakening → diagnosis → explanation → corrective vision → rescue → renewal → response → horizon
+- Keep the movement clear: awakening → diagnosis → explanation → corrective vision → rescue → renewal → response → horizon → reactions
 - Revise for compression, continuity, and force rather than drifting back into abstract architecture work
 - Bring supporting architecture docs into alignment with the actual manuscript
 - Identify where biblical anchors and concrete human examples should be strengthened in the remaining weaker chapters

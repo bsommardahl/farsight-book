@@ -215,7 +215,6 @@ Paint a picture of what it looks like to interpret life, people, suffering, time
 - the problem of nearsighted living in the present moment
 - God's whole perspective versus our fragmentary one
 - why farsight is not spiritual arrogance or fake certainty
-- how farsight changes our view of time, delay, suffering, obedience, people, and ordinary life
 - how farsight restores proportion by placing us inside God's larger story
 - how scripture, prayer, suffering, obedience, patience, and community form this kind of sight
 - the cost and steadiness of seeing more truly
@@ -226,6 +225,31 @@ What becomes visible when I stop seeing only from my own small, immediate perspe
 
 ### What it leaves the reader with
 Am I willing to let God stretch my vision beyond myself?
+
+---
+
+## Chapter 9 — Reactions
+### Subtitle
+**How farsight changes our responses**
+
+### Chapter job
+Show how renewed spiritual vision changes the way a person interprets and responds to prayer, suffering, conflict, waiting, disappointment, and everyday life.
+
+### What it covers
+- reacting according to what we believe is most real
+- how farsight changes what we think the real problem is
+- prayer shifting from explanation and relief toward transformation and surrender
+- suffering interpreted through formation rather than only interruption
+- conflict with people handled with greater humility, truth, and love
+- waiting and disappointment seen as possible places of formation
+- success and victory redefined in spiritual rather than merely visible terms
+- behavior changing because interpretation changes
+
+### Governing question
+How does seeing farther change the way we respond to what happens in front of us?
+
+### What it leaves the reader with
+What do my reactions reveal about what I truly believe is most real?
 
 ---
 
