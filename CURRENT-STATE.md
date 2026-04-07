@@ -32,6 +32,7 @@ Mid-development manuscript with a coherent eight-chapter spine, multiple real ch
 - `chapters/availability.md` reframed to hand off into `chapters/farsight.md`
 - `chapters/farsight.md` advanced from outline material to a near-complete chapter draft
 - Biblical anchors woven into `chapters/farsight.md` during revision
+- Supporting chapter-notes file added: `chapters/farsight-outline.md`
 
 ## Current Focus
 - Keep the movement clear: awakening → diagnosis → explanation → corrective vision → rescue → renewal → response → horizon

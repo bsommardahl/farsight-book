@@ -27,6 +27,11 @@ The Christian life is not mainly about behaving better in this world. It is abou
 - [Chapter 5: Salvation](chapters/salvation.md)
 - [Chapter 6: Sanctification](chapters/sanctification.md)
 - [Chapter 7: Availability](chapters/availability.md)
+- [Chapter 8: Farsight](chapters/farsight.md)
+
+## Chapter Development Notes
+
+- [Farsight Outline Notes](chapters/farsight-outline.md)
 
 ## Key Project Files
 
